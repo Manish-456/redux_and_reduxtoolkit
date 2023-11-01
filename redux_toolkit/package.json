@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.7",
+    "redux-logger": "^3.0.6"
+  },
+  "name": "redux_toolkit",
+  "description": "Redux toolkit is the official, opinionated, batteries-included toolset for efficient Redux development.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
